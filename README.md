@@ -6,6 +6,20 @@
 
 ### Hey there! My name is Yeva Gavrilov 👋
 
+#### About Me 
+- Full Stack Web Developer 
+- General Assembly
+- Currently working on learning all about MERN and a little bit of Python
+
+#### Skills
+- HTML
+- CSS
+- JavaScript
+- NodeJS
+- React
+- Express
+- MongoDB
+- PostMan
 
 <!--
 **yevagav/yevagav** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
