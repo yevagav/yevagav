@@ -1,4 +1,9 @@
-### Hi there 👋
+![alt text](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)
+
+
+
+### Hey there! My name is Yeva Gavrilov 👋
+
 
 <!--
 **yevagav/yevagav** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
